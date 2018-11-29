@@ -1,2 +1,2 @@
-# VisualDesign
-All graphics related to BRKOS visual identity.
+# Graphics-Design
+Veškeré grafické podklady.
