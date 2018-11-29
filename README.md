@@ -1,2 +1,2 @@
-# Graphics-Design
+# graphics-and-design
 Veškeré grafické podklady.
